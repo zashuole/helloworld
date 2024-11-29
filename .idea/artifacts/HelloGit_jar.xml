@@ -1,0 +1,42 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelloGit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloGit_jar</output-path>
+    <root id="archive" name="HelloGit.jar">
+      <element id="module-output" name="helloworld" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/spring-beans/6.2.0/spring-beans-6.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/spring-aop/6.2.0/spring-aop-6.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/com/fasterxml/jackson/core/jackson-core/2.18.1/jackson-core-2.18.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/boot/spring-boot-starter-web/3.4.0/spring-boot-starter-web-3.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/boot/spring-boot-starter-logging/3.4.0/spring-boot-starter-logging-3.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/io/micrometer/micrometer-commons/1.14.1/micrometer-commons-1.14.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/boot/spring-boot-starter-tomcat/3.4.0/spring-boot-starter-tomcat-3.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/ch/qos/logback/logback-core/1.5.12/logback-core-1.5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/boot/spring-boot/3.4.0/spring-boot-3.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/spring-core/6.2.0/spring-core-6.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/spring-expression/6.2.0/spring-expression-6.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/apache/tomcat/embed/tomcat-embed-core/10.1.33/tomcat-embed-core-10.1.33.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/spring-context/6.2.0/spring-context-6.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.18.1/jackson-datatype-jsr310-2.18.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/spring-webmvc/6.2.0/spring-webmvc-6.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.33/tomcat-embed-websocket-10.1.33.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/io/micrometer/micrometer-observation/1.14.1/micrometer-observation-1.14.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/com/fasterxml/jackson/module/jackson-module-parameter-names/2.18.1/jackson-module-parameter-names-2.18.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/boot/spring-boot-starter/3.4.0/spring-boot-starter-3.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/apache/tomcat/embed/tomcat-embed-el/10.1.33/tomcat-embed-el-10.1.33.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/spring-web/6.2.0/spring-web-6.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.18.1/jackson-datatype-jdk8-2.18.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/boot/spring-boot-starter-json/3.4.0/spring-boot-starter-json-3.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/com/fasterxml/jackson/core/jackson-databind/2.18.1/jackson-databind-2.18.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/ch/qos/logback/logback-classic/1.5.12/logback-classic-1.5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/boot/spring-boot-autoconfigure/3.4.0/spring-boot-autoconfigure-3.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/apache/logging/log4j/log4j-to-slf4j/2.24.1/log4j-to-slf4j-2.24.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/yaml/snakeyaml/2.3/snakeyaml-2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/com/fasterxml/jackson/core/jackson-annotations/2.18.1/jackson-annotations-2.18.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/springframework/spring-jcl/6.2.0/spring-jcl-6.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../lab/apache-maven-3.9.8/mvn_resp/org/slf4j/jul-to-slf4j/2.0.16/jul-to-slf4j-2.0.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.tencent</groupId>
-    <artifactId>HelloGit</artifactId>
+    <artifactId>helloworld</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>HelloGit</name>
     <description>HelloGit</description>
