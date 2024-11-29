@@ -64,6 +64,7 @@
                     <source>17.0.13</source><!--项目的jdk版本-->
                     <target>17.0.13</target><!--项目的jdk版本-->
                 </configuration>
+
             </plugin>
 
         </plugins>
